@@ -1,2 +1,4 @@
 import time
 import client
+import MQTT
+import machine
